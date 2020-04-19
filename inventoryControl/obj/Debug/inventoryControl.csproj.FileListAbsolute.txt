@@ -1,0 +1,16 @@
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.csprojAssemblyReference.cache
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.Form1.resources
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.Properties.Resources.resources
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.csproj.GenerateResource.cache
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.csproj.CoreCompileInputs.cache
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\bin\Debug\inventoryControl.exe.config
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\bin\Debug\inventoryControl.exe
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\bin\Debug\inventoryControl.pdb
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.exe
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.pdb
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.InventoryView.resources
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.ItemInsertView.resources
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\bin\Debug\inventoryControl.exe.manifest
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\bin\Debug\inventoryControl.application
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.exe.manifest
+C:\EstreGodFerroLog\InventoryControl\inventoryControl\obj\Debug\inventoryControl.application
